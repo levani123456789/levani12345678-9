@@ -1,0 +1,7 @@
+nams= ("irakli","luka","zviadi","goga,"gagi,"givi,"dato")
+print(nams{0})
+print(nams {2})
+print(nams{4})
+nams({0})"irakli"
+nams({2})"zviadi"
+nams({4})"gagi"
