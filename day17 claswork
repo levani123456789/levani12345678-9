@@ -1,0 +1,20 @@
+form>
+  form>
+<input/> type="email" placeholder="enter your  email"
+<br>
+<input/> type="password" placeholder="enter your password"
+<br>
+
+input/> type+"file" placeholder="please enter your "fail" <required>
+  <br>
+<from>
+
+  
+<form>
+<input/> type="email" placeholder="Please enter your email" <required>
+<br>
+<input/> type="password" placeholder="Please enter your "password"< required>
+<br>
+  input/> type+"file" placeholder="please enter your "fail" <required>
+  <br>
+<form>
