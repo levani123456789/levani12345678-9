@@ -1,0 +1,22 @@
+name=("levani")
+print("name")
+surname=("metreveli")
+print("surname")
+age=(14)
+print("age")
+address=("kvareli discrit vilage chikaani")
+print("address")
+
+  
+print(125+45)
+print(450+550)
+print(500-257)
+print(456-234)
+print(45*34)
+print(56*35)
+print(120/2)
+print(240/3)
+print(400/5)
+print(60*40)
+
+
