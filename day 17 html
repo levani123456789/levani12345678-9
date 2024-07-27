@@ -1,0 +1,26 @@
+form>
+
+<input type="email" placeholder="enter your  email"
+<br>
+<input type="password" placeholder="enter your password"
+<br>
+<input type="text" placeholder="enter your text"
+<br>
+<input type= "date" placeholder="enter your date"
+<br>
+
+<form>
+  form>
+nput type="email" placeholder="enter your  email"
+<br>
+<input type="password" placeholder="enter your password"
+<br>
+<from>
+
+<form>
+<input type="email" placeholder="Please enter your email" required>
+<br>
+<input type="password" placeholder="Please enter your password" required>
+<br>
+<form>
+<i
