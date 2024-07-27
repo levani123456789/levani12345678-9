@@ -1,0 +1,13 @@
+nams=["mariami","tamta","giorgi","zuka."]
+
+print(nams)
+
+nams= ("mariami","tamta","giorgi","zuka,"giga,"vaso,"roma.")
+print(nams{0})
+print(nams {2})
+print(nams{4})
+print(nams{6})
+nams({0})"mariami"
+nams({2})"giorgi"
+nams({4})"giga"
+nams({6})"roma"
